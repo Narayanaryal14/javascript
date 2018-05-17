@@ -1,0 +1,101 @@
+p{
+ text-align:center;
+ color:blue;
+ font-size:20px;
+}
+p1{
+ text-align:center;
+ font-size:16px;
+ color:#FFFF00;
+}
+input
+{ padding:2px;
+ font-size:inherit;
+ }
+ input[type="text"]
+ {
+  display:block;
+  margin-bottom:10px;
+  width:312px;
+  border:2px solidblue; 
+  
+ }
+ input[type="password"]
+ {
+  display:block;
+  margin-bottom:10px;
+  width:312px;
+  border:2px solidblue; 
+ }
+ input[type="email"]
+ {
+  display:block;
+  margin-bottom:10px;
+  width:313px;
+  border:2px solidblue; 
+ }
+ 
+  form
+ {
+   margin:10px auto;
+   width:320px;
+   color:stellblue;
+   
+ }
+body
+{
+background-color:#f7f7f7
+}
+
+ input[type="radio"]
+ {
+ margin:0 8px 2px 18px;
+ }
+
+input[type="radio"]:first-child
+ {
+   marrgin-left:0;
+ }
+ input[type="submit"]
+ {
+  width:320px;
+  height:30px;
+  border:none;
+  background:stellblue;
+  color:white;
+ }
+ input[type="button"]
+ {
+  width:320px;
+  margin-left:0px;
+  height:30px;
+  border:none;
+  background:stellblue;
+  color:white;
+ }
+input:focus
+{
+background:white;
+}
+input[type="radio"]:checked + label
+{
+  font-weight:bold;
+  font-size:18px;
+  
+}
+.warpper
+{ 
+    max-width:600px;
+	margin-top:200px;
+	border:1px solid #888;
+	padding-top:5px;
+	background-color:#eadada; 
+
+}
+.warppermain
+{   max-width:600px;
+	margin-top:200px;
+	border:1px solid #888;
+	padding-top:5px;
+	background-color:stellblue ; 
+}

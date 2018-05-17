@@ -1,0 +1,3 @@
+alert("Hello java script");
+alert("Hello 2nd page");
+document.write("Out put html content from java script");
