@@ -20,7 +20,7 @@ echo "Hello World!";
   
   
   
-		<!-- <p id="p1">This is first paragraph</p>-->
+		<!-- <p id="p1">This is  paragraph</p>-->
 		<!-- <p>This is second Paragraph </p> -->
 		<!--<button onclick="f1()">Click</button> -->
 	
